@@ -1,6 +1,14 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/*
+ * @Author: your name
+ * @Date: 2021-01-29 16:54:04
+ * @LastEditTime: 2021-02-11 19:06:35
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /jira/src/App.tsx
+ */
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,6 +26,7 @@ function App() {
         >
           Learn React
         </a>
+        <span>ljx test</span>
       </header>
     </div>
   );
