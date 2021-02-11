@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-01-29 16:54:04
- * @LastEditTime: 2021-02-11 19:06:35
+ * @LastEditTime: 2021-02-12 00:48:52
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /jira/src/App.tsx
@@ -26,7 +26,7 @@ function App() {
         >
           Learn React
         </a>
-        <span>ljx test</span>
+        <span>ljx test two</span>
       </header>
     </div>
   );
